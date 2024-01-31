@@ -1,5 +1,5 @@
 ### Olá 😊! Eu sou a Ana Cristina
-📓 Eu estou estudando JS
+📓 Eu estou estudando Desenvolvimento de Software
 
 <div align="center">
 <a href="https://github.com/AnaCSilveira">
